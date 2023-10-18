@@ -1,0 +1,5 @@
+# Compile the C# code into an executable
+csc main.cs
+
+# Execute the compiled program
+main.exe
